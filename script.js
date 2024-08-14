@@ -50,5 +50,3 @@ calcularDano.addEventListener("click", function() {
         danoExibir.textContent = 'Primeiro, jogue o dado.';
     }
 });
-
-precisaoInput.addEventListener("input", atualizarValoresCriticos);
